@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\First-C-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3DCECE7-5E05-4F8B-8FDD-4901A619E323}|SortArray\\SortArray.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\SortArray\\SortingElement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3DCECE7-5E05-4F8B-8FDD-4901A619E323}|SortArray\\SortArray.vcxproj|solutionrelative:SortArray\\SortingElement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC3243F6-AA1B-4217-B29C-49489671E2B1}|CountElements\\CountElements.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\CountElements\\CountOccurences.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC3243F6-AA1B-4217-B29C-49489671E2B1}|CountElements\\CountElements.vcxproj|solutionrelative:CountElements\\CountOccurences.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E46CCB3-9EFA-4DC8-B6A7-B8DE2D0B3B1B}|SearchElement\\SearchElement.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\SearchElement\\FindElement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E46CCB3-9EFA-4DC8-B6A7-B8DE2D0B3B1B}|SearchElement\\SearchElement.vcxproj|solutionrelative:SearchElement\\FindElement.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8931F85B-6C2A-441B-9FDC-2F615FDCCE57}|AverageElement\\AverageElement.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\AverageElement\\AverageElInArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8931F85B-6C2A-441B-9FDC-2F615FDCCE57}|AverageElement\\AverageElement.vcxproj|solutionrelative:AverageElement\\AverageElInArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D06CD60-14DE-4E2E-9065-15CD00B59370}|MaxElement\\MaxElement.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\MaxElement\\MaximumElementInArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D06CD60-14DE-4E2E-9065-15CD00B59370}|MaxElement\\MaxElement.vcxproj|solutionrelative:MaxElement\\MaximumElementInArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C639F7A7-D63D-4FB8-B529-408E364B8FA0}|Palindrom\\Palindrom.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\Palindrom\\palindrom.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C639F7A7-D63D-4FB8-B529-408E364B8FA0}|Palindrom\\Palindrom.vcxproj|solutionrelative:Palindrom\\palindrom.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E3AACFE-D9DB-40A9-95FA-8A7ACE0E866F}|ReverseNumbers\\ReverseNumbers.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\ReverseNumbers\\ReverseArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E3AACFE-D9DB-40A9-95FA-8A7ACE0E866F}|ReverseNumbers\\ReverseNumbers.vcxproj|solutionrelative:ReverseNumbers\\ReverseArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69CFD078-C21C-4001-ACAC-EBB1CA4F3A6B}|Arrays\\Arrays.vcxproj|C:\\Users\\PC\\source\\repos\\First-C-Project\\Arrays\\IntroductionaArrays.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69CFD078-C21C-4001-ACAC-EBB1CA4F3A6B}|Arrays\\Arrays.vcxproj|solutionrelative:Arrays\\IntroductionaArrays.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortingElement.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\SortArray\\SortingElement.c",
+              "RelativeDocumentMoniker": "SortArray\\SortingElement.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\SortArray\\SortingElement.c",
+              "RelativeToolTip": "SortArray\\SortingElement.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T15:38:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountOccurences.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\CountElements\\CountOccurences.c",
+              "RelativeDocumentMoniker": "CountElements\\CountOccurences.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\CountElements\\CountOccurences.c",
+              "RelativeToolTip": "CountElements\\CountOccurences.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T10:10:46.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindElement.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\SearchElement\\FindElement.c",
+              "RelativeDocumentMoniker": "SearchElement\\FindElement.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\SearchElement\\FindElement.c",
+              "RelativeToolTip": "SearchElement\\FindElement.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T09:23:09.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AverageElInArray.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\AverageElement\\AverageElInArray.c",
+              "RelativeDocumentMoniker": "AverageElement\\AverageElInArray.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\AverageElement\\AverageElInArray.c",
+              "RelativeToolTip": "AverageElement\\AverageElInArray.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T09:01:43.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaximumElementInArray.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\MaxElement\\MaximumElementInArray.c",
+              "RelativeDocumentMoniker": "MaxElement\\MaximumElementInArray.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\MaxElement\\MaximumElementInArray.c",
+              "RelativeToolTip": "MaxElement\\MaximumElementInArray.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T08:50:12.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReverseArray.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\ReverseNumbers\\ReverseArray.c",
+              "RelativeDocumentMoniker": "ReverseNumbers\\ReverseArray.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\ReverseNumbers\\ReverseArray.c",
+              "RelativeToolTip": "ReverseNumbers\\ReverseArray.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-02T19:33:33.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "palindrom.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\Palindrom\\palindrom.c",
+              "RelativeDocumentMoniker": "Palindrom\\palindrom.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\Palindrom\\palindrom.c",
+              "RelativeToolTip": "Palindrom\\palindrom.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-02T19:31:04.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntroductionaArrays.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\First-C-Project\\Arrays\\IntroductionaArrays.c",
+              "RelativeDocumentMoniker": "Arrays\\IntroductionaArrays.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\First-C-Project\\Arrays\\IntroductionaArrays.c",
+              "RelativeToolTip": "Arrays\\IntroductionaArrays.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-01T10:27:56.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

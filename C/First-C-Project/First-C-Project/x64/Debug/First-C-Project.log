@@ -1,0 +1,8 @@
+﻿  First.c
+  Multiplication.c
+  PalindromeMethod.c
+C:\Users\PC\source\repos\First-C-Project\First-C-Project\PalindromeMethod.c(11,27): warning C4028: formal parameter 1 different from declaration
+  Generating Code...
+C:\Users\PC\source\repos\First-C-Project\First-C-Project\PalindromeMethod.c(13,1): warning C4716: 'checkPalindrome': must return a value
+PalindromeMethod.obj : error LNK2005: main already defined in Multiplication.obj
+C:\Users\PC\source\repos\First-C-Project\x64\Debug\First-C-Project.exe : fatal error LNK1169: one or more multiply defined symbols found
