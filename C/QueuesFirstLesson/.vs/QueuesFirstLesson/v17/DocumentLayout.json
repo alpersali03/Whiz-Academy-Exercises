@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\QueuesFirstLesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8849ECAE-DF20-409E-84B1-3E32E1EA8751}|QueueHomework\\QueueHomework.vcxproj|C:\\Users\\PC\\source\\repos\\QueuesFirstLesson\\QueueHomework\\QueueTask.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8849ECAE-DF20-409E-84B1-3E32E1EA8751}|QueueHomework\\QueueHomework.vcxproj|solutionrelative:QueueHomework\\QueueTask.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971CCA2F-046E-456E-8F94-BD871B7703D9}|QueuesFirstLesson\\QueuesFirstLesson.vcxproj|C:\\Users\\PC\\source\\repos\\QueuesFirstLesson\\QueuesFirstLesson\\QueueExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{971CCA2F-046E-456E-8F94-BD871B7703D9}|QueuesFirstLesson\\QueuesFirstLesson.vcxproj|solutionrelative:QueuesFirstLesson\\QueueExample.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueTask.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\QueuesFirstLesson\\QueueHomework\\QueueTask.c",
+              "RelativeDocumentMoniker": "QueueHomework\\QueueTask.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\QueuesFirstLesson\\QueueHomework\\QueueTask.c",
+              "RelativeToolTip": "QueueHomework\\QueueTask.c",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T07:16:23.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueExample.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\QueuesFirstLesson\\QueuesFirstLesson\\QueueExample.c",
+              "RelativeDocumentMoniker": "QueuesFirstLesson\\QueueExample.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\QueuesFirstLesson\\QueuesFirstLesson\\QueueExample.c",
+              "RelativeToolTip": "QueuesFirstLesson\\QueueExample.c",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwF0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-10T17:03:55.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

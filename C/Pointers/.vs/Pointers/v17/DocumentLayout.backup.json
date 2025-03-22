@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Pointers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8230D611-6B24-4AA1-876C-D80B2778532B}|DynamicMemory\\DynamicMemory.vcxproj|C:\\Users\\PC\\source\\repos\\Pointers\\DynamicMemory\\DynamicAllocation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8230D611-6B24-4AA1-876C-D80B2778532B}|DynamicMemory\\DynamicMemory.vcxproj|solutionrelative:DynamicMemory\\DynamicAllocation.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AF2DB-4FE8-4FED-8821-DD14521EEEA0}|PointerArtmetic\\PointerArtmetic.vcxproj|C:\\Users\\PC\\source\\repos\\Pointers\\PointerArtmetic\\PointerAritmeticExercise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712AF2DB-4FE8-4FED-8821-DD14521EEEA0}|PointerArtmetic\\PointerArtmetic.vcxproj|solutionrelative:PointerArtmetic\\PointerAritmeticExercise.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797239E-F2B4-4860-B1AF-28D7A9B27E3A}|Pointers\\Pointers.vcxproj|C:\\Users\\PC\\source\\repos\\Pointers\\Pointers\\ArraysPointers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3797239E-F2B4-4860-B1AF-28D7A9B27E3A}|Pointers\\Pointers.vcxproj|solutionrelative:Pointers\\ArraysPointers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3797239E-F2B4-4860-B1AF-28D7A9B27E3A}|Pointers\\Pointers.vcxproj|C:\\Users\\PC\\source\\repos\\Pointers\\PointerProject\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3797239E-F2B4-4860-B1AF-28D7A9B27E3A}|Pointers\\Pointers.vcxproj|solutionrelative:PointerProject\\PointerArray.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DynamicAllocation.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Pointers\\DynamicMemory\\DynamicAllocation.c",
+              "RelativeDocumentMoniker": "DynamicMemory\\DynamicAllocation.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Pointers\\DynamicMemory\\DynamicAllocation.c*",
+              "RelativeToolTip": "DynamicMemory\\DynamicAllocation.c*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-06T11:13:58.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointerAritmeticExercise.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Pointers\\PointerArtmetic\\PointerAritmeticExercise.c",
+              "RelativeDocumentMoniker": "PointerArtmetic\\PointerAritmeticExercise.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Pointers\\PointerArtmetic\\PointerAritmeticExercise.c",
+              "RelativeToolTip": "PointerArtmetic\\PointerAritmeticExercise.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-06T10:25:05.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArraysPointers.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Pointers\\Pointers\\ArraysPointers.c",
+              "RelativeDocumentMoniker": "Pointers\\ArraysPointers.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Pointers\\Pointers\\ArraysPointers.c",
+              "RelativeToolTip": "Pointers\\ArraysPointers.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T16:17:52.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointerArray.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Pointers\\PointerProject\\PointerArray.c",
+              "RelativeDocumentMoniker": "PointerProject\\PointerArray.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Pointers\\PointerProject\\PointerArray.c",
+              "RelativeToolTip": "PointerProject\\PointerArray.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-03T16:07:00.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
