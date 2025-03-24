@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CsProject\Arrays2\bin\Debug\net8.0\Arrays2.exe
+C:\Users\PC\source\repos\CsProject\Arrays2\bin\Debug\net8.0\Arrays2.deps.json
+C:\Users\PC\source\repos\CsProject\Arrays2\bin\Debug\net8.0\Arrays2.runtimeconfig.json
+C:\Users\PC\source\repos\CsProject\Arrays2\bin\Debug\net8.0\Arrays2.dll
+C:\Users\PC\source\repos\CsProject\Arrays2\bin\Debug\net8.0\Arrays2.pdb
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\Arrays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\Arrays2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\Arrays2.AssemblyInfo.cs
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\Arrays2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\Arrays2.dll
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\refint\Arrays2.dll
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\Arrays2.pdb
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\Arrays2.genruntimeconfig.cache
+C:\Users\PC\source\repos\CsProject\Arrays2\obj\Debug\net8.0\ref\Arrays2.dll

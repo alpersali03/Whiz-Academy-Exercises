@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CsProject\MethodsHard\bin\Debug\net8.0\MethodsHard.exe
+C:\Users\PC\source\repos\CsProject\MethodsHard\bin\Debug\net8.0\MethodsHard.deps.json
+C:\Users\PC\source\repos\CsProject\MethodsHard\bin\Debug\net8.0\MethodsHard.runtimeconfig.json
+C:\Users\PC\source\repos\CsProject\MethodsHard\bin\Debug\net8.0\MethodsHard.dll
+C:\Users\PC\source\repos\CsProject\MethodsHard\bin\Debug\net8.0\MethodsHard.pdb
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\MethodsHard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\MethodsHard.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\MethodsHard.AssemblyInfo.cs
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\MethodsHard.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\MethodsHard.dll
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\refint\MethodsHard.dll
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\MethodsHard.pdb
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\MethodsHard.genruntimeconfig.cache
+C:\Users\PC\source\repos\CsProject\MethodsHard\obj\Debug\net8.0\ref\MethodsHard.dll

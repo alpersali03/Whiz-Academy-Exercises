@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CsProject\ArrayCombination\bin\Debug\net8.0\ArrayCombination.exe
+C:\Users\PC\source\repos\CsProject\ArrayCombination\bin\Debug\net8.0\ArrayCombination.deps.json
+C:\Users\PC\source\repos\CsProject\ArrayCombination\bin\Debug\net8.0\ArrayCombination.runtimeconfig.json
+C:\Users\PC\source\repos\CsProject\ArrayCombination\bin\Debug\net8.0\ArrayCombination.dll
+C:\Users\PC\source\repos\CsProject\ArrayCombination\bin\Debug\net8.0\ArrayCombination.pdb
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ArrayCombination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ArrayCombination.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ArrayCombination.AssemblyInfo.cs
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ArrayCombination.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ArrayCombination.dll
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\refint\ArrayCombination.dll
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ArrayCombination.pdb
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ArrayCombination.genruntimeconfig.cache
+C:\Users\PC\source\repos\CsProject\ArrayCombination\obj\Debug\net8.0\ref\ArrayCombination.dll

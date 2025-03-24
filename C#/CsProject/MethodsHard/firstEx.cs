@@ -1,0 +1,4 @@
+﻿int IntegerNumbers(int[] numbers)
+{
+
+}

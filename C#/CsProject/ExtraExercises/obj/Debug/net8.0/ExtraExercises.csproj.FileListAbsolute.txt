@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CsProject\ExtraExercises\bin\Debug\net8.0\ExtraExercises.exe
+C:\Users\PC\source\repos\CsProject\ExtraExercises\bin\Debug\net8.0\ExtraExercises.deps.json
+C:\Users\PC\source\repos\CsProject\ExtraExercises\bin\Debug\net8.0\ExtraExercises.runtimeconfig.json
+C:\Users\PC\source\repos\CsProject\ExtraExercises\bin\Debug\net8.0\ExtraExercises.dll
+C:\Users\PC\source\repos\CsProject\ExtraExercises\bin\Debug\net8.0\ExtraExercises.pdb
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ExtraExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ExtraExercises.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ExtraExercises.AssemblyInfo.cs
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ExtraExercises.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ExtraExercises.dll
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\refint\ExtraExercises.dll
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ExtraExercises.pdb
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ExtraExercises.genruntimeconfig.cache
+C:\Users\PC\source\repos\CsProject\ExtraExercises\obj\Debug\net8.0\ref\ExtraExercises.dll

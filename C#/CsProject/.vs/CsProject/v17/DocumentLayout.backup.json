@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B991FDF7-E600-4CDD-B14D-0C1F5B7BC906}|ArrayCombination\\ArrayCombination.csproj|c:\\users\\pc\\source\\repos\\csproject\\arraycombination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B991FDF7-E600-4CDD-B14D-0C1F5B7BC906}|ArrayCombination\\ArrayCombination.csproj|solutionrelative:arraycombination\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417369A7-1B95-4BFD-9B0B-B3CA8BA2F6F2}|RemoveDuplicates\\RemoveDuplicates.csproj|c:\\users\\pc\\source\\repos\\csproject\\removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417369A7-1B95-4BFD-9B0B-B3CA8BA2F6F2}|RemoveDuplicates\\RemoveDuplicates.csproj|solutionrelative:removeduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CsProject\\ArrayCombination\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayCombination\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CsProject\\ArrayCombination\\Program.cs*",
+              "RelativeToolTip": "ArrayCombination\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:44:55.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CsProject\\RemoveDuplicates\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveDuplicates\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CsProject\\RemoveDuplicates\\Program.cs",
+              "RelativeToolTip": "RemoveDuplicates\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:10:48.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

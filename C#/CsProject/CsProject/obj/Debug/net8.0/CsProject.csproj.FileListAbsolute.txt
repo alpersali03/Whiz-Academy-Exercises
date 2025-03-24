@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CsProject\CsProject\bin\Debug\net8.0\CsProject.exe
+C:\Users\PC\source\repos\CsProject\CsProject\bin\Debug\net8.0\CsProject.deps.json
+C:\Users\PC\source\repos\CsProject\CsProject\bin\Debug\net8.0\CsProject.runtimeconfig.json
+C:\Users\PC\source\repos\CsProject\CsProject\bin\Debug\net8.0\CsProject.dll
+C:\Users\PC\source\repos\CsProject\CsProject\bin\Debug\net8.0\CsProject.pdb
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\CsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\CsProject.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\CsProject.AssemblyInfo.cs
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\CsProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\CsProject.dll
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\refint\CsProject.dll
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\CsProject.pdb
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\CsProject.genruntimeconfig.cache
+C:\Users\PC\source\repos\CsProject\CsProject\obj\Debug\net8.0\ref\CsProject.dll

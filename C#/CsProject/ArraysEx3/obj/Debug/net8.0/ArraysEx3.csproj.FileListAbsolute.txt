@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\CsProject\ArraysEx3\bin\Debug\net8.0\ArraysEx3.exe
+C:\Users\PC\source\repos\CsProject\ArraysEx3\bin\Debug\net8.0\ArraysEx3.deps.json
+C:\Users\PC\source\repos\CsProject\ArraysEx3\bin\Debug\net8.0\ArraysEx3.runtimeconfig.json
+C:\Users\PC\source\repos\CsProject\ArraysEx3\bin\Debug\net8.0\ArraysEx3.dll
+C:\Users\PC\source\repos\CsProject\ArraysEx3\bin\Debug\net8.0\ArraysEx3.pdb
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ArraysEx3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ArraysEx3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ArraysEx3.AssemblyInfo.cs
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ArraysEx3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ArraysEx3.dll
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\refint\ArraysEx3.dll
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ArraysEx3.pdb
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ArraysEx3.genruntimeconfig.cache
+C:\Users\PC\source\repos\CsProject\ArraysEx3\obj\Debug\net8.0\ref\ArraysEx3.dll
