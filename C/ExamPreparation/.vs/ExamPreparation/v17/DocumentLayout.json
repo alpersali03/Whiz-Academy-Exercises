@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF24958B-2ED8-478A-8080-53DD36B252FD}|Exercise\\Exercise.vcxproj|C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise\\Task3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF24958B-2ED8-478A-8080-53DD36B252FD}|Exercise\\Exercise.vcxproj|solutionrelative:Exercise\\Task3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00ECE34F-A347-45C6-8F16-B5DF1395386B}|Exercise6\\Exercise6.vcxproj|C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise6\\Task6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00ECE34F-A347-45C6-8F16-B5DF1395386B}|Exercise6\\Exercise6.vcxproj|solutionrelative:Exercise6\\Task6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84CF2C5-1B60-4141-8F7E-CBCA121EC872}|Exercise5\\Exercise5.vcxproj|C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise5\\Task5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C84CF2C5-1B60-4141-8F7E-CBCA121EC872}|Exercise5\\Exercise5.vcxproj|solutionrelative:Exercise5\\Task5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CEA9C0-10FE-4E72-B8B1-DE54334AA6A1}|Exercise2\\Exercise2.vcxproj|C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise2\\Task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56CEA9C0-10FE-4E72-B8B1-DE54334AA6A1}|Exercise2\\Exercise2.vcxproj|solutionrelative:Exercise2\\Task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DFF36-2210-4B89-B6A0-E48F6B8B10F0}|ExamPreparation\\ExamPreparation.vcxproj|C:\\Users\\PC\\source\\repos\\ExamPreparation\\ExamPreparation\\Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E3DFF36-2210-4B89-B6A0-E48F6B8B10F0}|ExamPreparation\\ExamPreparation.vcxproj|solutionrelative:ExamPreparation\\Task1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task6.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise6\\Task6.c",
+              "RelativeDocumentMoniker": "Exercise6\\Task6.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise6\\Task6.c",
+              "RelativeToolTip": "Exercise6\\Task6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T17:06:37.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task5.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise5\\Task5.c",
+              "RelativeDocumentMoniker": "Exercise5\\Task5.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise5\\Task5.c",
+              "RelativeToolTip": "Exercise5\\Task5.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-17T16:34:02.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise\\Task3.c",
+              "RelativeDocumentMoniker": "Exercise\\Task3.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise\\Task3.c*",
+              "RelativeToolTip": "Exercise\\Task3.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-16T15:46:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task2.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise2\\Task2.c",
+              "RelativeDocumentMoniker": "Exercise2\\Task2.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\Exercise2\\Task2.c",
+              "RelativeToolTip": "Exercise2\\Task2.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T10:39:43.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task1.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\ExamPreparation\\Task1.c",
+              "RelativeDocumentMoniker": "ExamPreparation\\Task1.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ExamPreparation\\ExamPreparation\\Task1.c",
+              "RelativeToolTip": "ExamPreparation\\Task1.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-15T10:06:03.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
