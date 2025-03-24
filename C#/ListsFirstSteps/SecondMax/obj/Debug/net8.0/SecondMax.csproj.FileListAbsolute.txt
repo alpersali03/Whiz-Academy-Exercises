@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\bin\Debug\net8.0\SecondMax.exe
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\bin\Debug\net8.0\SecondMax.deps.json
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\bin\Debug\net8.0\SecondMax.runtimeconfig.json
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\bin\Debug\net8.0\SecondMax.dll
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\bin\Debug\net8.0\SecondMax.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\SecondMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\SecondMax.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\SecondMax.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\SecondMax.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\SecondMax.dll
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\refint\SecondMax.dll
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\SecondMax.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\SecondMax.genruntimeconfig.cache
+C:\Users\PC\source\repos\ListsFirstSteps\SecondMax\obj\Debug\net8.0\ref\SecondMax.dll

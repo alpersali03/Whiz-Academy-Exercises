@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\bin\Debug\net8.0\CounOccurences.exe
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\bin\Debug\net8.0\CounOccurences.deps.json
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\bin\Debug\net8.0\CounOccurences.runtimeconfig.json
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\bin\Debug\net8.0\CounOccurences.dll
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\bin\Debug\net8.0\CounOccurences.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\CounOccurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\CounOccurences.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\CounOccurences.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\CounOccurences.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\CounOccurences.dll
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\refint\CounOccurences.dll
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\CounOccurences.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\CounOccurences.genruntimeconfig.cache
+C:\Users\PC\source\repos\ListsFirstSteps\CounOccurences\obj\Debug\net8.0\ref\CounOccurences.dll

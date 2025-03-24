@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\bin\Debug\net8.0\ListsFirstSteps.exe
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\bin\Debug\net8.0\ListsFirstSteps.deps.json
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\bin\Debug\net8.0\ListsFirstSteps.runtimeconfig.json
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\bin\Debug\net8.0\ListsFirstSteps.dll
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\bin\Debug\net8.0\ListsFirstSteps.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ListsFirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ListsFirstSteps.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ListsFirstSteps.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ListsFirstSteps.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ListsFirstSteps.dll
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\refint\ListsFirstSteps.dll
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ListsFirstSteps.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ListsFirstSteps.genruntimeconfig.cache
+C:\Users\PC\source\repos\ListsFirstSteps\ListsFirstSteps\obj\Debug\net8.0\ref\ListsFirstSteps.dll

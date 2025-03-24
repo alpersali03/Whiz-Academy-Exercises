@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\bin\Debug\net8.0\MinMaxValue.exe
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\bin\Debug\net8.0\MinMaxValue.deps.json
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\bin\Debug\net8.0\MinMaxValue.runtimeconfig.json
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\bin\Debug\net8.0\MinMaxValue.dll
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\bin\Debug\net8.0\MinMaxValue.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\MinMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\MinMaxValue.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\MinMaxValue.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\MinMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\MinMaxValue.dll
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\refint\MinMaxValue.dll
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\MinMaxValue.pdb
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\MinMaxValue.genruntimeconfig.cache
+C:\Users\PC\source\repos\ListsFirstSteps\MinMaxValue\obj\Debug\net8.0\ref\MinMaxValue.dll
