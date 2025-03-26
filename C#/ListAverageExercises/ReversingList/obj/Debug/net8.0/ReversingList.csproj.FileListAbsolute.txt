@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\bin\Debug\net8.0\ReversingList.exe
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\bin\Debug\net8.0\ReversingList.deps.json
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\bin\Debug\net8.0\ReversingList.runtimeconfig.json
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\bin\Debug\net8.0\ReversingList.dll
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\bin\Debug\net8.0\ReversingList.pdb
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ReversingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ReversingList.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ReversingList.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ReversingList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ReversingList.dll
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\refint\ReversingList.dll
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ReversingList.pdb
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ReversingList.genruntimeconfig.cache
+C:\Users\PC\source\repos\ListAverageExercises\ReversingList\obj\Debug\net8.0\ref\ReversingList.dll

@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\bin\Debug\net8.0\ListAverageExercises.exe
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\bin\Debug\net8.0\ListAverageExercises.deps.json
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\bin\Debug\net8.0\ListAverageExercises.runtimeconfig.json
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\bin\Debug\net8.0\ListAverageExercises.dll
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\bin\Debug\net8.0\ListAverageExercises.pdb
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ListAverageExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ListAverageExercises.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ListAverageExercises.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ListAverageExercises.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ListAverageExercises.dll
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\refint\ListAverageExercises.dll
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ListAverageExercises.pdb
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ListAverageExercises.genruntimeconfig.cache
+C:\Users\PC\source\repos\ListAverageExercises\ListAverageExercises\obj\Debug\net8.0\ref\ListAverageExercises.dll

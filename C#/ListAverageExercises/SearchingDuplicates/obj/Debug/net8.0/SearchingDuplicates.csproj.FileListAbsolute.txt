@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\bin\Debug\net8.0\SearchingDuplicates.exe
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\bin\Debug\net8.0\SearchingDuplicates.deps.json
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\bin\Debug\net8.0\SearchingDuplicates.runtimeconfig.json
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\bin\Debug\net8.0\SearchingDuplicates.dll
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\bin\Debug\net8.0\SearchingDuplicates.pdb
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\SearchingDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\SearchingDuplicates.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\SearchingDuplicates.AssemblyInfo.cs
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\SearchingDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\SearchingDuplicates.dll
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\refint\SearchingDuplicates.dll
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\SearchingDuplicates.pdb
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\SearchingDuplicates.genruntimeconfig.cache
+C:\Users\PC\source\repos\ListAverageExercises\SearchingDuplicates\obj\Debug\net8.0\ref\SearchingDuplicates.dll

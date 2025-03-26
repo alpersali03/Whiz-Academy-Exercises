@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ListAverageExercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC9B169-DEC7-4DEA-8FBF-F592139B8770}|ShoppingList\\ShoppingList.csproj|c:\\users\\pc\\source\\repos\\listaverageexercises\\shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC9B169-DEC7-4DEA-8FBF-F592139B8770}|ShoppingList\\ShoppingList.csproj|solutionrelative:shoppinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB62CFDD-3943-44DF-B1AB-0A362CADD27B}|ReversingList\\ReversingList.csproj|c:\\users\\pc\\source\\repos\\listaverageexercises\\reversinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB62CFDD-3943-44DF-B1AB-0A362CADD27B}|ReversingList\\ReversingList.csproj|solutionrelative:reversinglist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ListAverageExercises\\ShoppingList\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingList\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ListAverageExercises\\ShoppingList\\Program.cs",
+              "RelativeToolTip": "ShoppingList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:47:05.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ListAverageExercises\\ReversingList\\Program.cs",
+              "RelativeDocumentMoniker": "ReversingList\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ListAverageExercises\\ReversingList\\Program.cs",
+              "RelativeToolTip": "ReversingList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:08:49.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
