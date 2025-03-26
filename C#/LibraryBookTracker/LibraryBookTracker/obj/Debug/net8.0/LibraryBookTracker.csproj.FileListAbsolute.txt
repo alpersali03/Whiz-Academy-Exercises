@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\bin\Debug\net8.0\LibraryBookTracker.exe
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\bin\Debug\net8.0\LibraryBookTracker.deps.json
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\bin\Debug\net8.0\LibraryBookTracker.runtimeconfig.json
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\bin\Debug\net8.0\LibraryBookTracker.dll
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\bin\Debug\net8.0\LibraryBookTracker.pdb
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\LibraryBookTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\LibraryBookTracker.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\LibraryBookTracker.AssemblyInfo.cs
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\LibraryBookTracker.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\LibraryBookTracker.dll
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\refint\LibraryBookTracker.dll
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\LibraryBookTracker.pdb
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\LibraryBookTracker.genruntimeconfig.cache
+C:\Users\PC\source\repos\LibraryBookTracker\LibraryBookTracker\obj\Debug\net8.0\ref\LibraryBookTracker.dll
