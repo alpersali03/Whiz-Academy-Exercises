@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\bin\Debug\net8.0\UFCRoster.exe
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\bin\Debug\net8.0\UFCRoster.deps.json
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\bin\Debug\net8.0\UFCRoster.runtimeconfig.json
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\bin\Debug\net8.0\UFCRoster.dll
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\bin\Debug\net8.0\UFCRoster.pdb
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\UFCRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\UFCRoster.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\UFCRoster.AssemblyInfo.cs
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\UFCRoster.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\UFCRoster.dll
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\refint\UFCRoster.dll
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\UFCRoster.pdb
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\UFCRoster.genruntimeconfig.cache
+C:\Users\PC\source\repos\UFCRoster\UFCRoster\obj\Debug\net8.0\ref\UFCRoster.dll
