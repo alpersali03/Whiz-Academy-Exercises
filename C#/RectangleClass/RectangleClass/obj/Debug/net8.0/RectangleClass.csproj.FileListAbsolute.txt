@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\bin\Debug\net8.0\RectangleClass.exe
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\bin\Debug\net8.0\RectangleClass.deps.json
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\bin\Debug\net8.0\RectangleClass.runtimeconfig.json
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\bin\Debug\net8.0\RectangleClass.dll
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\bin\Debug\net8.0\RectangleClass.pdb
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\RectangleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\RectangleClass.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\RectangleClass.AssemblyInfo.cs
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\RectangleClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\RectangleClass.dll
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\refint\RectangleClass.dll
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\RectangleClass.pdb
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\RectangleClass.genruntimeconfig.cache
+C:\Users\PC\source\repos\RectangleClass\RectangleClass\obj\Debug\net8.0\ref\RectangleClass.dll
