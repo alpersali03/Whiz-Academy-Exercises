@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\HomeworkClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B60B492-02C4-4926-B797-E612B7695888}|HomeworkClass\\HomeworkClass.csproj|c:\\users\\pc\\source\\repos\\homeworkclass\\homeworkclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B60B492-02C4-4926-B797-E612B7695888}|HomeworkClass\\HomeworkClass.csproj|solutionrelative:homeworkclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B60B492-02C4-4926-B797-E612B7695888}|HomeworkClass\\HomeworkClass.csproj|c:\\users\\pc\\source\\repos\\homeworkclass\\homeworkclass\\carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B60B492-02C4-4926-B797-E612B7695888}|HomeworkClass\\HomeworkClass.csproj|solutionrelative:homeworkclass\\carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarClass.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\HomeworkClass\\HomeworkClass\\CarClass.cs",
+              "RelativeDocumentMoniker": "HomeworkClass\\CarClass.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\HomeworkClass\\HomeworkClass\\CarClass.cs",
+              "RelativeToolTip": "HomeworkClass\\CarClass.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "HomeworkClass",
+              "WhenOpened": "2024-11-08T21:30:21.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\HomeworkClass\\HomeworkClass\\Program.cs",
+              "RelativeDocumentMoniker": "HomeworkClass\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\HomeworkClass\\HomeworkClass\\Program.cs",
+              "RelativeToolTip": "HomeworkClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "HomeworkClass",
+              "WhenOpened": "2024-11-08T21:29:57.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
