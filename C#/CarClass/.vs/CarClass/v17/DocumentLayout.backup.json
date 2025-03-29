@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CarClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AFE87F-959F-424D-8EEE-09A182A45ABC}|CarClass\\CarClass.csproj|c:\\users\\pc\\source\\repos\\carclass\\carclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AFE87F-959F-424D-8EEE-09A182A45ABC}|CarClass\\CarClass.csproj|solutionrelative:carclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AFE87F-959F-424D-8EEE-09A182A45ABC}|CarClass\\CarClass.csproj|c:\\users\\pc\\source\\repos\\carclass\\carclass\\carinfoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AFE87F-959F-424D-8EEE-09A182A45ABC}|CarClass\\CarClass.csproj|solutionrelative:carclass\\carinfoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarInfoClass.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CarClass\\CarClass\\CarInfoClass.cs",
+              "RelativeDocumentMoniker": "CarClass\\CarInfoClass.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CarClass\\CarClass\\CarInfoClass.cs",
+              "RelativeToolTip": "CarClass\\CarInfoClass.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:27:36.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CarClass\\CarClass\\Program.cs",
+              "RelativeDocumentMoniker": "CarClass\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CarClass\\CarClass\\Program.cs",
+              "RelativeToolTip": "CarClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T07:27:00.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
