@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Animal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|c:\\users\\pc\\source\\repos\\animal\\animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|solutionrelative:animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|c:\\users\\pc\\source\\repos\\animal\\animal\\wildanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|solutionrelative:animal\\wildanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|c:\\users\\pc\\source\\repos\\animal\\animal\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|solutionrelative:animal\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|c:\\users\\pc\\source\\repos\\animal\\animal\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C511C268-04B8-4DB2-8375-7B63BC7F3CF0}|Animal\\Animal.csproj|solutionrelative:animal\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\Cat.cs",
+              "RelativeDocumentMoniker": "Animal\\Cat.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\Cat.cs",
+              "RelativeToolTip": "Animal\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:14:39.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\Dog.cs",
+              "RelativeDocumentMoniker": "Animal\\Dog.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\Dog.cs",
+              "RelativeToolTip": "Animal\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:09:41.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WildAnimal.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\WildAnimal.cs",
+              "RelativeDocumentMoniker": "Animal\\WildAnimal.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\WildAnimal.cs",
+              "RelativeToolTip": "Animal\\WildAnimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:08:25.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\Program.cs",
+              "RelativeDocumentMoniker": "Animal\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Animal\\Animal\\Program.cs",
+              "RelativeToolTip": "Animal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T11:08:04.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
