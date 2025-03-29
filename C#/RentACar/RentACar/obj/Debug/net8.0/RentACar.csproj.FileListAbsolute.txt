@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\RentACar\RentACar\bin\Debug\net8.0\RentACar.exe
+C:\Users\PC\source\repos\RentACar\RentACar\bin\Debug\net8.0\RentACar.deps.json
+C:\Users\PC\source\repos\RentACar\RentACar\bin\Debug\net8.0\RentACar.runtimeconfig.json
+C:\Users\PC\source\repos\RentACar\RentACar\bin\Debug\net8.0\RentACar.dll
+C:\Users\PC\source\repos\RentACar\RentACar\bin\Debug\net8.0\RentACar.pdb
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\RentACar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\RentACar.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\RentACar.AssemblyInfo.cs
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\RentACar.dll
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\refint\RentACar.dll
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\RentACar.pdb
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\RentACar.genruntimeconfig.cache
+C:\Users\PC\source\repos\RentACar\RentACar\obj\Debug\net8.0\ref\RentACar.dll
