@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ProductClass\ProductClass\bin\Debug\net8.0\ProductClass.exe
+C:\Users\PC\source\repos\ProductClass\ProductClass\bin\Debug\net8.0\ProductClass.deps.json
+C:\Users\PC\source\repos\ProductClass\ProductClass\bin\Debug\net8.0\ProductClass.runtimeconfig.json
+C:\Users\PC\source\repos\ProductClass\ProductClass\bin\Debug\net8.0\ProductClass.dll
+C:\Users\PC\source\repos\ProductClass\ProductClass\bin\Debug\net8.0\ProductClass.pdb
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ProductClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ProductClass.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ProductClass.AssemblyInfo.cs
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ProductClass.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ProductClass.dll
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\refint\ProductClass.dll
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ProductClass.pdb
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ProductClass.genruntimeconfig.cache
+C:\Users\PC\source\repos\ProductClass\ProductClass\obj\Debug\net8.0\ref\ProductClass.dll
