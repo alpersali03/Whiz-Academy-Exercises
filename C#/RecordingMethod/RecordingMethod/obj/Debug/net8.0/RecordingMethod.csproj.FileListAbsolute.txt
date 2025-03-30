@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\bin\Debug\net8.0\RecordingMethod.exe
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\bin\Debug\net8.0\RecordingMethod.deps.json
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\bin\Debug\net8.0\RecordingMethod.runtimeconfig.json
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\bin\Debug\net8.0\RecordingMethod.dll
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\bin\Debug\net8.0\RecordingMethod.pdb
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\RecordingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\RecordingMethod.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\RecordingMethod.AssemblyInfo.cs
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\RecordingMethod.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\RecordingMethod.dll
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\refint\RecordingMethod.dll
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\RecordingMethod.pdb
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\RecordingMethod.genruntimeconfig.cache
+C:\Users\PC\source\repos\RecordingMethod\RecordingMethod\obj\Debug\net8.0\ref\RecordingMethod.dll
