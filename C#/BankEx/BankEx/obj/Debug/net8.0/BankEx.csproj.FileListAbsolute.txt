@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\BankEx\BankEx\bin\Debug\net8.0\BankEx.exe
+C:\Users\PC\source\repos\BankEx\BankEx\bin\Debug\net8.0\BankEx.deps.json
+C:\Users\PC\source\repos\BankEx\BankEx\bin\Debug\net8.0\BankEx.runtimeconfig.json
+C:\Users\PC\source\repos\BankEx\BankEx\bin\Debug\net8.0\BankEx.dll
+C:\Users\PC\source\repos\BankEx\BankEx\bin\Debug\net8.0\BankEx.pdb
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\BankEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\BankEx.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\BankEx.AssemblyInfo.cs
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\BankEx.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\BankEx.dll
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\refint\BankEx.dll
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\BankEx.pdb
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\BankEx.genruntimeconfig.cache
+C:\Users\PC\source\repos\BankEx\BankEx\obj\Debug\net8.0\ref\BankEx.dll
