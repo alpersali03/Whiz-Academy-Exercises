@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Inheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F07710F-FA2A-4819-8E16-545A0A2C3BE2}|Inheritence\\Inheritence.csproj|c:\\users\\pc\\source\\repos\\inheritence\\inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F07710F-FA2A-4819-8E16-545A0A2C3BE2}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F07710F-FA2A-4819-8E16-545A0A2C3BE2}|Inheritence\\Inheritence.csproj|c:\\users\\pc\\source\\repos\\inheritence\\inheritence\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F07710F-FA2A-4819-8E16-545A0A2C3BE2}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F07710F-FA2A-4819-8E16-545A0A2C3BE2}|Inheritence\\Inheritence.csproj|c:\\users\\pc\\source\\repos\\inheritence\\inheritence\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F07710F-FA2A-4819-8E16-545A0A2C3BE2}|Inheritence\\Inheritence.csproj|solutionrelative:inheritence\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Inheritence\\Inheritence\\Manager.cs",
+              "RelativeDocumentMoniker": "Inheritence\\Manager.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Inheritence\\Inheritence\\Manager.cs",
+              "RelativeToolTip": "Inheritence\\Manager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:35:09.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Inheritence\\Inheritence\\Employee.cs",
+              "RelativeDocumentMoniker": "Inheritence\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Inheritence\\Inheritence\\Employee.cs",
+              "RelativeToolTip": "Inheritence\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:32:22.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Inheritence\\Inheritence\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritence\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Inheritence\\Inheritence\\Program.cs",
+              "RelativeToolTip": "Inheritence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:31:57.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
