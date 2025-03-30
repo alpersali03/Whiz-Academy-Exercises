@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\bin\Debug\net8.0\ApplianceInheritence.exe
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\bin\Debug\net8.0\ApplianceInheritence.deps.json
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\bin\Debug\net8.0\ApplianceInheritence.runtimeconfig.json
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\bin\Debug\net8.0\ApplianceInheritence.dll
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\bin\Debug\net8.0\ApplianceInheritence.pdb
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ApplianceInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ApplianceInheritence.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ApplianceInheritence.AssemblyInfo.cs
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ApplianceInheritence.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ApplianceInheritence.dll
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\refint\ApplianceInheritence.dll
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ApplianceInheritence.pdb
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ApplianceInheritence.genruntimeconfig.cache
+C:\Users\PC\source\repos\ApplianceInheritence\ApplianceInheritence\obj\Debug\net8.0\ref\ApplianceInheritence.dll
