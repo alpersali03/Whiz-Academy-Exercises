@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\bin\Debug\net8.0\ControllingAnimalsSystem.exe
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\bin\Debug\net8.0\ControllingAnimalsSystem.deps.json
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\bin\Debug\net8.0\ControllingAnimalsSystem.runtimeconfig.json
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\bin\Debug\net8.0\ControllingAnimalsSystem.dll
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\bin\Debug\net8.0\ControllingAnimalsSystem.pdb
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ControllingAnimalsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ControllingAnimalsSystem.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ControllingAnimalsSystem.AssemblyInfo.cs
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ControllingAnimalsSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ControllingAnimalsSystem.dll
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\refint\ControllingAnimalsSystem.dll
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ControllingAnimalsSystem.pdb
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ControllingAnimalsSystem.genruntimeconfig.cache
+C:\Users\PC\source\repos\ControllingAnimalsSystem\ControllingAnimalsSystem\obj\Debug\net8.0\ref\ControllingAnimalsSystem.dll
