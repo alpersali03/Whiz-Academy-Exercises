@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\bin\Debug\net8.0\BrowserHistory.exe
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\bin\Debug\net8.0\BrowserHistory.deps.json
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\bin\Debug\net8.0\BrowserHistory.runtimeconfig.json
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\bin\Debug\net8.0\BrowserHistory.dll
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\bin\Debug\net8.0\BrowserHistory.pdb
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\BrowserHistory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\BrowserHistory.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\BrowserHistory.AssemblyInfo.cs
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\BrowserHistory.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\BrowserHistory.dll
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\refint\BrowserHistory.dll
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\BrowserHistory.pdb
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\BrowserHistory.genruntimeconfig.cache
+C:\Users\PC\source\repos\BrowserHistory\BrowserHistory\obj\Debug\net8.0\ref\BrowserHistory.dll
