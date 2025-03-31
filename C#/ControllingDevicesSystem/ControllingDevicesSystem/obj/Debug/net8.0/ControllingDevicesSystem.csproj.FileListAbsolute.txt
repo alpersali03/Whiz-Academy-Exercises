@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\bin\Debug\net8.0\ControllingDevicesSystem.exe
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\bin\Debug\net8.0\ControllingDevicesSystem.deps.json
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\bin\Debug\net8.0\ControllingDevicesSystem.runtimeconfig.json
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\bin\Debug\net8.0\ControllingDevicesSystem.dll
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\bin\Debug\net8.0\ControllingDevicesSystem.pdb
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ControllingDevicesSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ControllingDevicesSystem.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ControllingDevicesSystem.AssemblyInfo.cs
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ControllingDevicesSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ControllingDevicesSystem.dll
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\refint\ControllingDevicesSystem.dll
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ControllingDevicesSystem.pdb
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ControllingDevicesSystem.genruntimeconfig.cache
+C:\Users\PC\source\repos\ControllingDevicesSystem\ControllingDevicesSystem\obj\Debug\net8.0\ref\ControllingDevicesSystem.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|c:\\users\\pc\\source\\repos\\controllingdevicessystem\\controllingdevicessystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|solutionrelative:controllingdevicessystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|c:\\users\\pc\\source\\repos\\controllingdevicessystem\\controllingdevicessystem\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|solutionrelative:controllingdevicessystem\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|c:\\users\\pc\\source\\repos\\controllingdevicessystem\\controllingdevicessystem\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|solutionrelative:controllingdevicessystem\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|c:\\users\\pc\\source\\repos\\controllingdevicessystem\\controllingdevicessystem\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|solutionrelative:controllingdevicessystem\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|c:\\users\\pc\\source\\repos\\controllingdevicessystem\\controllingdevicessystem\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F793EA-C545-4876-8ACC-5618B8F007BF}|ControllingDevicesSystem\\ControllingDevicesSystem.csproj|solutionrelative:controllingdevicessystem\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Laptop.cs",
+              "RelativeDocumentMoniker": "ControllingDevicesSystem\\Laptop.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Laptop.cs",
+              "RelativeToolTip": "ControllingDevicesSystem\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:11:01.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Tablet.cs",
+              "RelativeDocumentMoniker": "ControllingDevicesSystem\\Tablet.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Tablet.cs",
+              "RelativeToolTip": "ControllingDevicesSystem\\Tablet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:10:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Phone.cs",
+              "RelativeDocumentMoniker": "ControllingDevicesSystem\\Phone.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Phone.cs",
+              "RelativeToolTip": "ControllingDevicesSystem\\Phone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:09:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Device.cs",
+              "RelativeDocumentMoniker": "ControllingDevicesSystem\\Device.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Device.cs",
+              "RelativeToolTip": "ControllingDevicesSystem\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:08:49.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ControllingDevicesSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\ControllingDevicesSystem\\ControllingDevicesSystem\\Program.cs",
+              "RelativeToolTip": "ControllingDevicesSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:08:17.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
