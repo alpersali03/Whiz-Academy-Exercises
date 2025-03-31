@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\BookLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|c:\\users\\pc\\source\\repos\\booklibrary\\booklibrary\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|c:\\users\\pc\\source\\repos\\booklibrary\\booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|c:\\users\\pc\\source\\repos\\booklibrary\\booklibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|c:\\users\\pc\\source\\repos\\booklibrary\\booklibrary\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|c:\\users\\pc\\source\\repos\\booklibrary\\booklibrary\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9222EC33-9428-48D2-939A-1CAC71FE4AF6}|BookLibrary\\BookLibrary.csproj|solutionrelative:booklibrary\\printedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Library.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Library.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Library.cs*",
+              "RelativeToolTip": "BookLibrary\\Library.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:32:43.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrintedBook.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\PrintedBook.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\PrintedBook.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\PrintedBook.cs",
+              "RelativeToolTip": "BookLibrary\\PrintedBook.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:24:04.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Ebook.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Ebook.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Ebook.cs",
+              "RelativeToolTip": "BookLibrary\\Ebook.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:23:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Book.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Book.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Book.cs",
+              "RelativeToolTip": "BookLibrary\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:21:36.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "BookLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BookLibrary\\BookLibrary\\Program.cs",
+              "RelativeToolTip": "BookLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:20:48.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
