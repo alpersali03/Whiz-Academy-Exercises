@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\bin\Debug\net8.0\ConvertToString.exe
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\bin\Debug\net8.0\ConvertToString.deps.json
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\bin\Debug\net8.0\ConvertToString.runtimeconfig.json
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\bin\Debug\net8.0\ConvertToString.dll
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\bin\Debug\net8.0\ConvertToString.pdb
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ConvertToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ConvertToString.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ConvertToString.AssemblyInfo.cs
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ConvertToString.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ConvertToString.dll
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\refint\ConvertToString.dll
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ConvertToString.pdb
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ConvertToString.genruntimeconfig.cache
+C:\Users\PC\source\repos\ConvertToString\ConvertToString\obj\Debug\net8.0\ref\ConvertToString.dll
