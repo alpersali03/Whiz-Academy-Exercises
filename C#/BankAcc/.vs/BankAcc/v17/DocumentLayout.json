@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\BankAcc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2A167D-3FE3-43AC-A298-0702EBE56667}|BankAcc.Test\\BankAcc.Test.csproj|c:\\users\\pc\\source\\repos\\bankacc\\bankacc.test\\bankacctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2A167D-3FE3-43AC-A298-0702EBE56667}|BankAcc.Test\\BankAcc.Test.csproj|solutionrelative:bankacc.test\\bankacctests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B1A4E-9A30-4618-9C20-36E150AB597C}|BankAcc\\BankAcc.csproj|c:\\users\\pc\\source\\repos\\bankacc\\bankacc\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B1A4E-9A30-4618-9C20-36E150AB597C}|BankAcc\\BankAcc.csproj|solutionrelative:bankacc\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2A167D-3FE3-43AC-A298-0702EBE56667}|BankAcc.Test\\BankAcc.Test.csproj|c:\\users\\pc\\source\\repos\\bankacc\\bankacc.test\\bankacc.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B2A167D-3FE3-43AC-A298-0702EBE56667}|BankAcc.Test\\BankAcc.Test.csproj|solutionrelative:bankacc.test\\bankacc.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3B1A4E-9A30-4618-9C20-36E150AB597C}|BankAcc\\BankAcc.csproj|c:\\users\\pc\\source\\repos\\bankacc\\bankacc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3B1A4E-9A30-4618-9C20-36E150AB597C}|BankAcc\\BankAcc.csproj|solutionrelative:bankacc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 33,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAcc.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BankAcc\\BankAcc.Test\\BankAcc.Test.csproj",
+              "RelativeDocumentMoniker": "BankAcc.Test\\BankAcc.Test.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BankAcc\\BankAcc.Test\\BankAcc.Test.csproj",
+              "RelativeToolTip": "BankAcc.Test\\BankAcc.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T10:09:47.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BankAcc\\BankAcc.Test\\BankAccTests.cs",
+              "RelativeDocumentMoniker": "BankAcc.Test\\BankAccTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BankAcc\\BankAcc.Test\\BankAccTests.cs",
+              "RelativeToolTip": "BankAcc.Test\\BankAccTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "BankAcc.Test",
+              "WhenOpened": "2025-01-05T10:10:17.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BankAcc\\BankAcc\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAcc\\BankAccount.cs",
+              "ToolTip": "BankAcc/BankAccount.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "BankAcc",
+              "OverriddenToolTip": "BankAcc/BankAccount.cs",
+              "WhenOpened": "2025-01-05T08:26:08.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BankAcc\\BankAcc\\Program.cs",
+              "RelativeDocumentMoniker": "BankAcc\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BankAcc\\BankAcc\\Program.cs",
+              "RelativeToolTip": "BankAcc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T08:25:41.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
