@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\DatingApp\DatingApp\bin\Debug\net8.0\DatingApp.exe
+C:\Users\PC\source\repos\DatingApp\DatingApp\bin\Debug\net8.0\DatingApp.deps.json
+C:\Users\PC\source\repos\DatingApp\DatingApp\bin\Debug\net8.0\DatingApp.runtimeconfig.json
+C:\Users\PC\source\repos\DatingApp\DatingApp\bin\Debug\net8.0\DatingApp.dll
+C:\Users\PC\source\repos\DatingApp\DatingApp\bin\Debug\net8.0\DatingApp.pdb
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\DatingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\DatingApp.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\DatingApp.AssemblyInfo.cs
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\DatingApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\DatingApp.dll
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\refint\DatingApp.dll
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\DatingApp.pdb
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\DatingApp.genruntimeconfig.cache
+C:\Users\PC\source\repos\DatingApp\DatingApp\obj\Debug\net8.0\ref\DatingApp.dll
