@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\DictReverse\DictReverse\bin\Debug\net8.0\DictReverse.exe
+C:\Users\PC\source\repos\DictReverse\DictReverse\bin\Debug\net8.0\DictReverse.deps.json
+C:\Users\PC\source\repos\DictReverse\DictReverse\bin\Debug\net8.0\DictReverse.runtimeconfig.json
+C:\Users\PC\source\repos\DictReverse\DictReverse\bin\Debug\net8.0\DictReverse.dll
+C:\Users\PC\source\repos\DictReverse\DictReverse\bin\Debug\net8.0\DictReverse.pdb
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\DictReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\DictReverse.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\DictReverse.AssemblyInfo.cs
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\DictReverse.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\DictReverse.dll
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\refint\DictReverse.dll
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\DictReverse.pdb
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\DictReverse.genruntimeconfig.cache
+C:\Users\PC\source\repos\DictReverse\DictReverse\obj\Debug\net8.0\ref\DictReverse.dll
