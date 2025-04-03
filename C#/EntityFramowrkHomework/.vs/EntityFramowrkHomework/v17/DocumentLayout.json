@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\town.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\migrations\\20250221174950_employeeprojects-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\migrations\\20250221174950_employeeprojects-added.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\migrations\\20250221174810_employeeprojects-removed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\migrations\\20250221174810_employeeprojects-removed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\migrations\\20250221181056_employee-mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\migrations\\20250221181056_employee-mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|c:\\users\\pc\\source\\repos\\entityframowrkhomework\\entityframowrkhomework\\migrations\\20250221175857_employee-updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3B93ED-651C-49F0-88F2-AAD2FF015C75}|EntityFramowrkHomework\\EntityFramowrkHomework.csproj|solutionrelative:entityframowrkhomework\\migrations\\20250221175857_employee-updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Address.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Address.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Address.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:34:34.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Town.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Town.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Town.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Town.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Town.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:33:48.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Program.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "EntityFramowrkHomework",
+              "WhenOpened": "2025-02-21T18:29:51.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250221181056_Employee-mig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221181056_Employee-mig.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Migrations\\20250221181056_Employee-mig.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221181056_Employee-mig.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Migrations\\20250221181056_Employee-mig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:10:56.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250221175857_Employee-updated.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221175857_Employee-updated.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Migrations\\20250221175857_Employee-updated.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221175857_Employee-updated.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Migrations\\20250221175857_Employee-updated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:58:57.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\AppDbContext.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\AppDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "EntityFramowrkHomework",
+              "WhenOpened": "2025-02-21T17:57:38.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Employee.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Employee.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Employee.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "EntityFramowrkHomework",
+              "WhenOpened": "2025-02-21T17:53:41.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250221174950_EmployeeProjects-added.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221174950_EmployeeProjects-added.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Migrations\\20250221174950_EmployeeProjects-added.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221174950_EmployeeProjects-added.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Migrations\\20250221174950_EmployeeProjects-added.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:49:50.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250221174810_EmployeeProjects-removed.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221174810_EmployeeProjects-removed.cs",
+              "RelativeDocumentMoniker": "EntityFramowrkHomework\\Migrations\\20250221174810_EmployeeProjects-removed.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\EntityFramowrkHomework\\EntityFramowrkHomework\\Migrations\\20250221174810_EmployeeProjects-removed.cs",
+              "RelativeToolTip": "EntityFramowrkHomework\\Migrations\\20250221174810_EmployeeProjects-removed.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:48:10.626Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
