@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\bin\Debug\net8.0\DynamicTransport.exe
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\bin\Debug\net8.0\DynamicTransport.deps.json
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\bin\Debug\net8.0\DynamicTransport.runtimeconfig.json
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\bin\Debug\net8.0\DynamicTransport.dll
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\bin\Debug\net8.0\DynamicTransport.pdb
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\DynamicTransport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\DynamicTransport.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\DynamicTransport.AssemblyInfo.cs
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\DynamicTransport.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\DynamicTransport.dll
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\refint\DynamicTransport.dll
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\DynamicTransport.pdb
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\DynamicTransport.genruntimeconfig.cache
+C:\Users\PC\source\repos\DynamicTransport\DynamicTransport\obj\Debug\net8.0\ref\DynamicTransport.dll

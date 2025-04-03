@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|c:\\users\\pc\\source\\repos\\dynamictransport\\dynamictransport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|solutionrelative:dynamictransport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|c:\\users\\pc\\source\\repos\\dynamictransport\\dynamictransport\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|solutionrelative:dynamictransport\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|c:\\users\\pc\\source\\repos\\dynamictransport\\dynamictransport\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|solutionrelative:dynamictransport\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|c:\\users\\pc\\source\\repos\\dynamictransport\\dynamictransport\\newbicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{005926E6-04EA-412A-A69F-4F842B1817F1}|DynamicTransport\\DynamicTransport.csproj|solutionrelative:dynamictransport\\newbicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewBicycle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\NewBicycle.cs",
+              "RelativeDocumentMoniker": "DynamicTransport\\NewBicycle.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\NewBicycle.cs*",
+              "RelativeToolTip": "DynamicTransport\\NewBicycle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:15:42.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\Car.cs",
+              "RelativeDocumentMoniker": "DynamicTransport\\Car.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\Car.cs",
+              "RelativeToolTip": "DynamicTransport\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:50:42.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\Transport.cs",
+              "RelativeDocumentMoniker": "DynamicTransport\\Transport.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\Transport.cs",
+              "RelativeToolTip": "DynamicTransport\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:49:25.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicTransport\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\DynamicTransport\\DynamicTransport\\Program.cs*",
+              "RelativeToolTip": "DynamicTransport\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:49:06.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
