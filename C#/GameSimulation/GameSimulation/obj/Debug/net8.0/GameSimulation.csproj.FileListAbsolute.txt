@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\bin\Debug\net8.0\GameSimulation.exe
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\bin\Debug\net8.0\GameSimulation.deps.json
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\bin\Debug\net8.0\GameSimulation.runtimeconfig.json
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\bin\Debug\net8.0\GameSimulation.dll
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\bin\Debug\net8.0\GameSimulation.pdb
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\GameSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\GameSimulation.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\GameSimulation.AssemblyInfo.cs
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\GameSimulation.dll
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\refint\GameSimulation.dll
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\GameSimulation.pdb
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\GameSimulation.genruntimeconfig.cache
+C:\Users\PC\source\repos\GameSimulation\GameSimulation\obj\Debug\net8.0\ref\GameSimulation.dll
