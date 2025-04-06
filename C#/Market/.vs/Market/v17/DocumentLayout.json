@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\migrations\\20250318085814_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\migrations\\20250318085814_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\migrations\\20250318085433_product-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\migrations\\20250318085433_product-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|c:\\users\\pc\\source\\repos\\market\\market\\migrations\\20250318084212_customer-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6ED21-ED92-4CBF-B4B8-64B9E742CD33}|Market\\Market.csproj|solutionrelative:market\\migrations\\20250318084212_customer-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Customer.cs",
+              "RelativeDocumentMoniker": "Market\\Customer.cs",
+              "ToolTip": "Market/Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Market",
+              "OverriddenToolTip": "Market/Customer.cs",
+              "WhenOpened": "2025-03-10T09:10:35.904Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250318085814_Init.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Migrations\\20250318085814_Init.cs",
+              "RelativeDocumentMoniker": "Market\\Migrations\\20250318085814_Init.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Migrations\\20250318085814_Init.cs",
+              "RelativeToolTip": "Market\\Migrations\\20250318085814_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:58:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250318085433_Product-table.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Migrations\\20250318085433_Product-table.cs",
+              "RelativeDocumentMoniker": "Market\\Migrations\\20250318085433_Product-table.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Migrations\\20250318085433_Product-table.cs",
+              "RelativeToolTip": "Market\\Migrations\\20250318085433_Product-table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:54:33.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250318084212_Customer-table.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Migrations\\20250318084212_Customer-table.cs",
+              "RelativeDocumentMoniker": "Market\\Migrations\\20250318084212_Customer-table.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Migrations\\20250318084212_Customer-table.cs",
+              "RelativeToolTip": "Market\\Migrations\\20250318084212_Customer-table.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:42:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Market\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Market\\Market\\AppDbContext.cs",
+              "RelativeToolTip": "Market\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:19:37.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Order.cs",
+              "RelativeDocumentMoniker": "Market\\Order.cs",
+              "ToolTip": "Market/Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Market",
+              "OverriddenToolTip": "Market/Order.cs",
+              "WhenOpened": "2025-03-10T09:12:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Product.cs",
+              "RelativeDocumentMoniker": "Market\\Product.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Product.cs",
+              "RelativeToolTip": "Market\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Market",
+              "WhenOpened": "2025-03-10T09:08:23.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Market\\Market\\Program.cs",
+              "RelativeDocumentMoniker": "Market\\Program.cs",
+              "ToolTip": "Market/Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Market",
+              "OverriddenToolTip": "Market/Program.cs",
+              "WhenOpened": "2025-03-10T09:08:08.651Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
