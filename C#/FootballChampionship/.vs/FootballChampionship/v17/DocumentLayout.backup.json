@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\league.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\migrations\\20250320065542_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\migrations\\20250320065542_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\footballchampionship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\footballchampionship.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\migrations\\20250320082445_fixingbugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\migrations\\20250320082445_fixingbugs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\migrations\\20250320074722_league-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\migrations\\20250320074722_league-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|c:\\users\\pc\\source\\repos\\footballchampionship\\footballchampionship\\migrations\\20250320074709_teams-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B1343C-7EE6-4F0F-8983-4F90416D8F8F}|FootballChampionship\\FootballChampionship.csproj|solutionrelative:footballchampionship\\migrations\\20250320074709_teams-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250320082445_FixingBugs.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320082445_FixingBugs.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Migrations\\20250320082445_FixingBugs.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320082445_FixingBugs.cs",
+              "RelativeToolTip": "FootballChampionship\\Migrations\\20250320082445_FixingBugs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:24:45.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250320074722_League-table.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320074722_League-table.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Migrations\\20250320074722_League-table.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320074722_League-table.cs",
+              "RelativeToolTip": "FootballChampionship\\Migrations\\20250320074722_League-table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:47:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250320074709_Teams-table.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320074709_Teams-table.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Migrations\\20250320074709_Teams-table.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320074709_Teams-table.cs",
+              "RelativeToolTip": "FootballChampionship\\Migrations\\20250320074709_Teams-table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:47:09.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250320065542_Init.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320065542_Init.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Migrations\\20250320065542_Init.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Migrations\\20250320065542_Init.cs",
+              "RelativeToolTip": "FootballChampionship\\Migrations\\20250320065542_Init.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwIQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:55:42.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\AppDbContext.cs",
+              "RelativeToolTip": "FootballChampionship\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:50:28.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FootballChampionship.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\FootballChampionship.csproj",
+              "RelativeDocumentMoniker": "FootballChampionship\\FootballChampionship.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\FootballChampionship.csproj",
+              "RelativeToolTip": "FootballChampionship\\FootballChampionship.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T06:47:17.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Goal.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Goal.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Goal.cs",
+              "RelativeToolTip": "FootballChampionship\\Goal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:36:46.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Match.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Match.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Match.cs",
+              "RelativeToolTip": "FootballChampionship\\Match.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:36:22.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Player.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Player.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Player.cs",
+              "RelativeToolTip": "FootballChampionship\\Player.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:35:53.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Team.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Team.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Team.cs",
+              "RelativeToolTip": "FootballChampionship\\Team.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:30:18.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "League.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\League.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\League.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\League.cs",
+              "RelativeToolTip": "FootballChampionship\\League.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:26:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Program.cs",
+              "RelativeDocumentMoniker": "FootballChampionship\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\FootballChampionship\\FootballChampionship\\Program.cs",
+              "RelativeToolTip": "FootballChampionship\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFEAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:23:07.371Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
