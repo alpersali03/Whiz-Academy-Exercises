@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\bin\Debug\net8.0\Kickboxing.exe
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\bin\Debug\net8.0\Kickboxing.deps.json
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\bin\Debug\net8.0\Kickboxing.runtimeconfig.json
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\bin\Debug\net8.0\Kickboxing.dll
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\bin\Debug\net8.0\Kickboxing.pdb
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\Kickboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\Kickboxing.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\Kickboxing.AssemblyInfo.cs
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\Kickboxing.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\Kickboxing.dll
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\refint\Kickboxing.dll
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\Kickboxing.pdb
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\Kickboxing.genruntimeconfig.cache
+C:\Users\PC\source\repos\Kickboxing\Kickboxing\obj\Debug\net8.0\ref\Kickboxing.dll

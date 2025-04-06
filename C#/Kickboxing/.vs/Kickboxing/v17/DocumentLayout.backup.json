@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Kickboxing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF742F-AB17-4C50-92A1-8407BF4C60F8}|Kickboxer.Test\\Kickboxing.Test.csproj|c:\\users\\pc\\source\\repos\\kickboxing\\kickboxer.test\\fighterprofiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CF742F-AB17-4C50-92A1-8407BF4C60F8}|Kickboxer.Test\\Kickboxing.Test.csproj|solutionrelative:kickboxer.test\\fighterprofiletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CF742F-AB17-4C50-92A1-8407BF4C60F8}|Kickboxer.Test\\Kickboxing.Test.csproj|c:\\users\\pc\\source\\repos\\kickboxing\\kickboxer.test\\kickboxing.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6CF742F-AB17-4C50-92A1-8407BF4C60F8}|Kickboxer.Test\\Kickboxing.Test.csproj|solutionrelative:kickboxer.test\\kickboxing.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E55DC3-5F61-46C7-8912-AF87EBD8B7D5}|Kickboxing\\Kickboxing.csproj|c:\\users\\pc\\source\\repos\\kickboxing\\kickboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E55DC3-5F61-46C7-8912-AF87EBD8B7D5}|Kickboxing\\Kickboxing.csproj|solutionrelative:kickboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E55DC3-5F61-46C7-8912-AF87EBD8B7D5}|Kickboxing\\Kickboxing.csproj|c:\\users\\pc\\source\\repos\\kickboxing\\kickboxing\\fighterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E55DC3-5F61-46C7-8912-AF87EBD8B7D5}|Kickboxing\\Kickboxing.csproj|solutionrelative:kickboxing\\fighterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FighterProfileTest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Kickboxing\\Kickboxer.Test\\FighterProfileTest.cs",
+              "RelativeDocumentMoniker": "Kickboxer.Test\\FighterProfileTest.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Kickboxing\\Kickboxer.Test\\FighterProfileTest.cs",
+              "RelativeToolTip": "Kickboxer.Test\\FighterProfileTest.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Kickboxer.Test",
+              "WhenOpened": "2025-01-09T15:14:51.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kickboxing.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Kickboxing\\Kickboxer.Test\\Kickboxing.Test.csproj",
+              "RelativeDocumentMoniker": "Kickboxer.Test\\Kickboxing.Test.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Kickboxing\\Kickboxer.Test\\Kickboxing.Test.csproj",
+              "RelativeToolTip": "Kickboxer.Test\\Kickboxing.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T14:41:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FighterProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Kickboxing\\Kickboxing\\FighterProfile.cs",
+              "RelativeDocumentMoniker": "Kickboxing\\FighterProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Kickboxing\\Kickboxing\\FighterProfile.cs",
+              "RelativeToolTip": "Kickboxing\\FighterProfile.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Kickboxing",
+              "WhenOpened": "2025-01-09T14:19:06.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Kickboxing\\Kickboxing\\Program.cs",
+              "RelativeDocumentMoniker": "Kickboxing\\Program.cs",
+              "ToolTip": "Kickboxing/Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Kickboxing",
+              "OverriddenToolTip": "Kickboxing/Program.cs",
+              "WhenOpened": "2025-01-09T14:18:45.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
