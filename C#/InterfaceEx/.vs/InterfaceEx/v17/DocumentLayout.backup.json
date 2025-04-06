@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|c:\\users\\pc\\source\\repos\\interfaceex\\interfaceex\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|solutionrelative:interfaceex\\cashpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|c:\\users\\pc\\source\\repos\\interfaceex\\interfaceex\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|solutionrelative:interfaceex\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|c:\\users\\pc\\source\\repos\\interfaceex\\interfaceex\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|solutionrelative:interfaceex\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|c:\\users\\pc\\source\\repos\\interfaceex\\interfaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|solutionrelative:interfaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|c:\\users\\pc\\source\\repos\\interfaceex\\interfaceex\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A380DFE-05CA-48A4-A79F-4AABAF4B13A6}|InterfaceEx\\InterfaceEx.csproj|solutionrelative:interfaceex\\ipaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\Deposit.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\Deposit.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\Deposit.cs",
+              "RelativeToolTip": "InterfaceEx\\Deposit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:49:21.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashPayment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\CashPayment.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\CashPayment.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\CashPayment.cs",
+              "RelativeToolTip": "InterfaceEx\\CashPayment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:44:39.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\CreditCardPayment.cs",
+              "RelativeToolTip": "InterfaceEx\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:43:29.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\IPaymentMethod.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\IPaymentMethod.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\IPaymentMethod.cs",
+              "RelativeToolTip": "InterfaceEx\\IPaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:42:00.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceEx\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\InterfaceEx\\InterfaceEx\\Program.cs",
+              "RelativeToolTip": "InterfaceEx\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:41:40.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
