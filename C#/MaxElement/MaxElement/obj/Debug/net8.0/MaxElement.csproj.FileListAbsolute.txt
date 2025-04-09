@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\MaxElement\MaxElement\bin\Debug\net8.0\MaxElement.exe
+C:\Users\PC\source\repos\MaxElement\MaxElement\bin\Debug\net8.0\MaxElement.deps.json
+C:\Users\PC\source\repos\MaxElement\MaxElement\bin\Debug\net8.0\MaxElement.runtimeconfig.json
+C:\Users\PC\source\repos\MaxElement\MaxElement\bin\Debug\net8.0\MaxElement.dll
+C:\Users\PC\source\repos\MaxElement\MaxElement\bin\Debug\net8.0\MaxElement.pdb
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\MaxElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\MaxElement.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\MaxElement.AssemblyInfo.cs
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\MaxElement.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\MaxElement.dll
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\refint\MaxElement.dll
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\MaxElement.pdb
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\MaxElement.genruntimeconfig.cache
+C:\Users\PC\source\repos\MaxElement\MaxElement\obj\Debug\net8.0\ref\MaxElement.dll
