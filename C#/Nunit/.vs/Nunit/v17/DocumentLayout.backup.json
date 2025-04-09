@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Nunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B2B865-B9C6-433F-9771-5F7F19332380}|Calculator.Test\\Calculator.Test.csproj|c:\\users\\pc\\source\\repos\\nunit\\calculator.test\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B2B865-B9C6-433F-9771-5F7F19332380}|Calculator.Test\\Calculator.Test.csproj|solutionrelative:calculator.test\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C4CC5-2736-4438-9BA6-BCC13D9D1867}|Nunit\\Nunit.csproj|c:\\users\\pc\\source\\repos\\nunit\\nunit\\nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{684C4CC5-2736-4438-9BA6-BCC13D9D1867}|Nunit\\Nunit.csproj|solutionrelative:nunit\\nunit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C4CC5-2736-4438-9BA6-BCC13D9D1867}|Nunit\\Nunit.csproj|c:\\users\\pc\\source\\repos\\nunit\\nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684C4CC5-2736-4438-9BA6-BCC13D9D1867}|Nunit\\Nunit.csproj|solutionrelative:nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B2B865-B9C6-433F-9771-5F7F19332380}|Calculator.Test\\Calculator.Test.csproj|c:\\users\\pc\\source\\repos\\nunit\\calculator.test\\calculator.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16B2B865-B9C6-433F-9771-5F7F19332380}|Calculator.Test\\Calculator.Test.csproj|solutionrelative:calculator.test\\calculator.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C4CC5-2736-4438-9BA6-BCC13D9D1867}|Nunit\\Nunit.csproj|c:\\users\\pc\\source\\repos\\nunit\\nunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684C4CC5-2736-4438-9BA6-BCC13D9D1867}|Nunit\\Nunit.csproj|solutionrelative:nunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nunit",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Nunit\\Nunit\\Nunit.csproj",
+              "RelativeDocumentMoniker": "Nunit\\Nunit.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Nunit\\Nunit\\Nunit.csproj",
+              "RelativeToolTip": "Nunit\\Nunit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T09:20:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Nunit\\Calculator.Test\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "Calculator.Test\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Nunit\\Calculator.Test\\CalculatorTests.cs",
+              "RelativeToolTip": "Calculator.Test\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:16:03.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.Test",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Nunit\\Calculator.Test\\Calculator.Test.csproj",
+              "RelativeDocumentMoniker": "Calculator.Test\\Calculator.Test.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Nunit\\Calculator.Test\\Calculator.Test.csproj",
+              "RelativeToolTip": "Calculator.Test\\Calculator.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T09:15:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Nunit\\Nunit\\Calculator.cs",
+              "RelativeDocumentMoniker": "Nunit\\Calculator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Nunit\\Nunit\\Calculator.cs",
+              "RelativeToolTip": "Nunit\\Calculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:11:59.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Nunit\\Nunit\\Program.cs",
+              "RelativeDocumentMoniker": "Nunit\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Nunit\\Nunit\\Program.cs",
+              "RelativeToolTip": "Nunit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:06:50.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
