@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|c:\\users\\pc\\source\\repos\\newschoolprogram\\newschoolprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|c:\\users\\pc\\source\\repos\\newschoolprogram\\newschoolprogram\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|c:\\users\\pc\\source\\repos\\newschoolprogram\\newschoolprogram\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|c:\\users\\pc\\source\\repos\\newschoolprogram\\newschoolprogram\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|solutionrelative:enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|c:\\users\\pc\\source\\repos\\newschoolprogram\\newschoolprogram\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93138FA7-D9CB-41DB-ACD9-65EC580D511B}|NewSchoolProgram.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:27:50.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Enrollment.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Enrollment.cs",
+              "RelativeToolTip": "Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:27:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Course.cs",
+              "RelativeDocumentMoniker": "Course.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Course.cs",
+              "RelativeToolTip": "Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:27:43.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwGcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:10:11.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NewSchoolProgram\\NewSchoolProgram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "",
+              "WhenOpened": "2025-03-12T15:09:46.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
