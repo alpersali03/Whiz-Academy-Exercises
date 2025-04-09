@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\bin\Debug\net8.0\NewUnitTesting.exe
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\bin\Debug\net8.0\NewUnitTesting.deps.json
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\bin\Debug\net8.0\NewUnitTesting.runtimeconfig.json
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\bin\Debug\net8.0\NewUnitTesting.dll
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\bin\Debug\net8.0\NewUnitTesting.pdb
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\NewUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\NewUnitTesting.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\NewUnitTesting.AssemblyInfo.cs
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\NewUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\NewUnitTesting.dll
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\refint\NewUnitTesting.dll
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\NewUnitTesting.pdb
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\NewUnitTesting.genruntimeconfig.cache
+C:\Users\PC\source\repos\NewUnitTesting\NewUnitTesting\obj\Debug\net8.0\ref\NewUnitTesting.dll
