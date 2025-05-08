@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Cars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|c:\\users\\pc\\source\\repos\\cars\\cars\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|solutionrelative:cars\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|c:\\users\\pc\\source\\repos\\cars\\cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|solutionrelative:cars\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|c:\\users\\pc\\source\\repos\\cars\\cars\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|solutionrelative:cars\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|c:\\users\\pc\\source\\repos\\cars\\cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27C2CB8-5C1A-4000-8FB3-4BEBDFBCB42C}|Cars\\Cars.csproj|solutionrelative:cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricCar.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\ElectricCar.cs",
+              "RelativeDocumentMoniker": "Cars\\ElectricCar.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\ElectricCar.cs",
+              "RelativeToolTip": "Cars\\ElectricCar.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:07:10.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\Car.cs",
+              "RelativeDocumentMoniker": "Cars\\Car.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\Car.cs",
+              "RelativeToolTip": "Cars\\Car.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:06:34.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Cars\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\Vehicle.cs",
+              "RelativeToolTip": "Cars\\Vehicle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:00:49.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\Program.cs",
+              "RelativeDocumentMoniker": "Cars\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Cars\\Cars\\Program.cs",
+              "RelativeToolTip": "Cars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:00:06.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
