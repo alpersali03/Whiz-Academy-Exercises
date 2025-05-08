@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\PrinterQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\PrinterQueue.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\PrinterQueue.AssemblyInfo.cs
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\PrinterQueue.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\bin\Debug\net8.0\PrinterQueue.exe
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\bin\Debug\net8.0\PrinterQueue.deps.json
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\bin\Debug\net8.0\PrinterQueue.runtimeconfig.json
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\bin\Debug\net8.0\PrinterQueue.dll
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\bin\Debug\net8.0\PrinterQueue.pdb
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\PrinterQueue.dll
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\refint\PrinterQueue.dll
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\PrinterQueue.pdb
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\PrinterQueue.genruntimeconfig.cache
+C:\Users\PC\source\repos\PrinterQueue\PrinterQueue\obj\Debug\net8.0\ref\PrinterQueue.dll
