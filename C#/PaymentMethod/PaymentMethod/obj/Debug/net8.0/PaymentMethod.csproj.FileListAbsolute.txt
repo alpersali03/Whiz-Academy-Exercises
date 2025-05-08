@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\bin\Debug\net8.0\PaymentMethod.exe
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\bin\Debug\net8.0\PaymentMethod.deps.json
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\bin\Debug\net8.0\PaymentMethod.runtimeconfig.json
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\bin\Debug\net8.0\PaymentMethod.dll
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\bin\Debug\net8.0\PaymentMethod.pdb
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\PaymentMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\PaymentMethod.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\PaymentMethod.AssemblyInfo.cs
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\PaymentMethod.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\PaymentMethod.dll
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\refint\PaymentMethod.dll
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\PaymentMethod.pdb
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\PaymentMethod.genruntimeconfig.cache
+C:\Users\PC\source\repos\PaymentMethod\PaymentMethod\obj\Debug\net8.0\ref\PaymentMethod.dll
