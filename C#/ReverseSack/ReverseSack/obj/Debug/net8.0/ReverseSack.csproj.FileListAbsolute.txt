@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\bin\Debug\net8.0\ReverseSack.exe
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\bin\Debug\net8.0\ReverseSack.deps.json
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\bin\Debug\net8.0\ReverseSack.runtimeconfig.json
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\bin\Debug\net8.0\ReverseSack.dll
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\bin\Debug\net8.0\ReverseSack.pdb
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ReverseSack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ReverseSack.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ReverseSack.AssemblyInfo.cs
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ReverseSack.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ReverseSack.dll
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\refint\ReverseSack.dll
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ReverseSack.pdb
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ReverseSack.genruntimeconfig.cache
+C:\Users\PC\source\repos\ReverseSack\ReverseSack\obj\Debug\net8.0\ref\ReverseSack.dll
