@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\ReverseSack\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\GitHub\\Whiz-Academy-Exercises\\C#\\ReverseSack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29AA83FA-2222-4C40-BB4A-A6ED745A5774}|ReverseSack\\ReverseSack.csproj|c:\\users\\pc\\source\\repos\\reversesack\\reversesack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29AA83FA-2222-4C40-BB4A-A6ED745A5774}|ReverseSack\\ReverseSack.csproj|c:\\users\\pc\\documents\\github\\whiz-academy-exercises\\c#\\reversesack\\reversesack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29AA83FA-2222-4C40-BB4A-A6ED745A5774}|ReverseSack\\ReverseSack.csproj|solutionrelative:reversesack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\ReverseSack\\ReverseSack\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\GitHub\\Whiz-Academy-Exercises\\C#\\ReverseSack\\ReverseSack\\Program.cs",
               "RelativeDocumentMoniker": "ReverseSack\\Program.cs",
-              "ToolTip": "C:\\Users\\PC\\source\\repos\\ReverseSack\\ReverseSack\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\GitHub\\Whiz-Academy-Exercises\\C#\\ReverseSack\\ReverseSack\\Program.cs",
               "RelativeToolTip": "ReverseSack\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

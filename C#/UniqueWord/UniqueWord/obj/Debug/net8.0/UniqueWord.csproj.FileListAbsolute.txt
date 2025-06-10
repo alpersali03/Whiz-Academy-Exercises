@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\bin\Debug\net8.0\UniqueWord.exe
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\bin\Debug\net8.0\UniqueWord.deps.json
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\bin\Debug\net8.0\UniqueWord.runtimeconfig.json
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\bin\Debug\net8.0\UniqueWord.dll
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\bin\Debug\net8.0\UniqueWord.pdb
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\UniqueWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\UniqueWord.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\UniqueWord.AssemblyInfo.cs
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\UniqueWord.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\UniqueWord.dll
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\refint\UniqueWord.dll
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\UniqueWord.pdb
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\UniqueWord.genruntimeconfig.cache
+C:\Users\PC\source\repos\UniqueWord\UniqueWord\obj\Debug\net8.0\ref\UniqueWord.dll
