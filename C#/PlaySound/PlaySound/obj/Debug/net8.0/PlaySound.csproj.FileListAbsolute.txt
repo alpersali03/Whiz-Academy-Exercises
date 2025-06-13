@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\PlaySound\PlaySound\bin\Debug\net8.0\PlaySound.exe
+C:\Users\PC\source\repos\PlaySound\PlaySound\bin\Debug\net8.0\PlaySound.deps.json
+C:\Users\PC\source\repos\PlaySound\PlaySound\bin\Debug\net8.0\PlaySound.runtimeconfig.json
+C:\Users\PC\source\repos\PlaySound\PlaySound\bin\Debug\net8.0\PlaySound.dll
+C:\Users\PC\source\repos\PlaySound\PlaySound\bin\Debug\net8.0\PlaySound.pdb
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\PlaySound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\PlaySound.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\PlaySound.AssemblyInfo.cs
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\PlaySound.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\PlaySound.dll
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\refint\PlaySound.dll
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\PlaySound.pdb
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\PlaySound.genruntimeconfig.cache
+C:\Users\PC\source\repos\PlaySound\PlaySound\obj\Debug\net8.0\ref\PlaySound.dll
