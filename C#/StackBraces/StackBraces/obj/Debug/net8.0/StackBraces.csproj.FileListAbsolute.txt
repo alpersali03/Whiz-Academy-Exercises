@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\StackBraces\StackBraces\bin\Debug\net8.0\StackBraces.exe
+C:\Users\PC\source\repos\StackBraces\StackBraces\bin\Debug\net8.0\StackBraces.deps.json
+C:\Users\PC\source\repos\StackBraces\StackBraces\bin\Debug\net8.0\StackBraces.runtimeconfig.json
+C:\Users\PC\source\repos\StackBraces\StackBraces\bin\Debug\net8.0\StackBraces.dll
+C:\Users\PC\source\repos\StackBraces\StackBraces\bin\Debug\net8.0\StackBraces.pdb
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\StackBraces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\StackBraces.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\StackBraces.AssemblyInfo.cs
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\StackBraces.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\StackBraces.dll
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\refint\StackBraces.dll
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\StackBraces.pdb
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\StackBraces.genruntimeconfig.cache
+C:\Users\PC\source\repos\StackBraces\StackBraces\obj\Debug\net8.0\ref\StackBraces.dll
