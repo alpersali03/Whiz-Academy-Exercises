@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\StartEngine\StartEngine\bin\Debug\net8.0\StartEngine.exe
+C:\Users\PC\source\repos\StartEngine\StartEngine\bin\Debug\net8.0\StartEngine.deps.json
+C:\Users\PC\source\repos\StartEngine\StartEngine\bin\Debug\net8.0\StartEngine.runtimeconfig.json
+C:\Users\PC\source\repos\StartEngine\StartEngine\bin\Debug\net8.0\StartEngine.dll
+C:\Users\PC\source\repos\StartEngine\StartEngine\bin\Debug\net8.0\StartEngine.pdb
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\StartEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\StartEngine.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\StartEngine.AssemblyInfo.cs
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\StartEngine.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\StartEngine.dll
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\refint\StartEngine.dll
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\StartEngine.pdb
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\StartEngine.genruntimeconfig.cache
+C:\Users\PC\source\repos\StartEngine\StartEngine\obj\Debug\net8.0\ref\StartEngine.dll

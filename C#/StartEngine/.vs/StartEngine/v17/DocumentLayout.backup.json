@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\StartEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|c:\\users\\pc\\source\\repos\\startengine\\startengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|solutionrelative:startengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|c:\\users\\pc\\source\\repos\\startengine\\startengine\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|solutionrelative:startengine\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|c:\\users\\pc\\source\\repos\\startengine\\startengine\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|solutionrelative:startengine\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|c:\\users\\pc\\source\\repos\\startengine\\startengine\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA87FA5-C1E4-4826-99A9-C0356FC23D38}|StartEngine\\StartEngine.csproj|solutionrelative:startengine\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Truck.cs",
+              "RelativeDocumentMoniker": "StartEngine\\Truck.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Truck.cs*",
+              "RelativeToolTip": "StartEngine\\Truck.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:41:03.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Car.cs",
+              "RelativeDocumentMoniker": "StartEngine\\Car.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Car.cs*",
+              "RelativeToolTip": "StartEngine\\Car.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:39:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Vehicle.cs",
+              "RelativeDocumentMoniker": "StartEngine\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Vehicle.cs*",
+              "RelativeToolTip": "StartEngine\\Vehicle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:37:57.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Program.cs",
+              "RelativeDocumentMoniker": "StartEngine\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\StartEngine\\StartEngine\\Program.cs*",
+              "RelativeToolTip": "StartEngine\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:37:41.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
