@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\bin\Debug\net8.0\StackNqueues.exe
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\bin\Debug\net8.0\StackNqueues.deps.json
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\bin\Debug\net8.0\StackNqueues.runtimeconfig.json
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\bin\Debug\net8.0\StackNqueues.dll
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\bin\Debug\net8.0\StackNqueues.pdb
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\StackNqueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\StackNqueues.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\StackNqueues.AssemblyInfo.cs
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\StackNqueues.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\StackNqueues.dll
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\refint\StackNqueues.dll
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\StackNqueues.pdb
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\StackNqueues.genruntimeconfig.cache
+C:\Users\PC\source\repos\StackNqueues\StackNqueues\obj\Debug\net8.0\ref\StackNqueues.dll
