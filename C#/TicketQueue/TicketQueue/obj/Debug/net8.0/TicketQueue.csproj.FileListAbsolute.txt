@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\bin\Debug\net8.0\TicketQueue.exe
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\bin\Debug\net8.0\TicketQueue.deps.json
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\bin\Debug\net8.0\TicketQueue.runtimeconfig.json
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\bin\Debug\net8.0\TicketQueue.dll
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\bin\Debug\net8.0\TicketQueue.pdb
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\TicketQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\TicketQueue.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\TicketQueue.AssemblyInfo.cs
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\TicketQueue.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\TicketQueue.dll
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\refint\TicketQueue.dll
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\TicketQueue.pdb
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\TicketQueue.genruntimeconfig.cache
+C:\Users\PC\source\repos\TicketQueue\TicketQueue\obj\Debug\net8.0\ref\TicketQueue.dll
