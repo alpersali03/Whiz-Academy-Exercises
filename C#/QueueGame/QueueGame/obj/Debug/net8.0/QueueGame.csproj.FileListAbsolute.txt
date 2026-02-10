@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\QueueGame\QueueGame\bin\Debug\net8.0\QueueGame.exe
+C:\Users\PC\source\repos\QueueGame\QueueGame\bin\Debug\net8.0\QueueGame.deps.json
+C:\Users\PC\source\repos\QueueGame\QueueGame\bin\Debug\net8.0\QueueGame.runtimeconfig.json
+C:\Users\PC\source\repos\QueueGame\QueueGame\bin\Debug\net8.0\QueueGame.dll
+C:\Users\PC\source\repos\QueueGame\QueueGame\bin\Debug\net8.0\QueueGame.pdb
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\QueueGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\QueueGame.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\QueueGame.AssemblyInfo.cs
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\QueueGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\QueueGame.dll
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\refint\QueueGame.dll
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\QueueGame.pdb
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\QueueGame.genruntimeconfig.cache
+C:\Users\PC\source\repos\QueueGame\QueueGame\obj\Debug\net8.0\ref\QueueGame.dll
