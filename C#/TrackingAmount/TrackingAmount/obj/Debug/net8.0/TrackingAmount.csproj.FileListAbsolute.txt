@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\bin\Debug\net8.0\TrackingAmount.exe
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\bin\Debug\net8.0\TrackingAmount.deps.json
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\bin\Debug\net8.0\TrackingAmount.runtimeconfig.json
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\bin\Debug\net8.0\TrackingAmount.dll
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\bin\Debug\net8.0\TrackingAmount.pdb
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\TrackingAmount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\TrackingAmount.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\TrackingAmount.AssemblyInfo.cs
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\TrackingAmount.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\TrackingAmount.dll
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\refint\TrackingAmount.dll
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\TrackingAmount.pdb
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\TrackingAmount.genruntimeconfig.cache
+C:\Users\PC\source\repos\TrackingAmount\TrackingAmount\obj\Debug\net8.0\ref\TrackingAmount.dll
