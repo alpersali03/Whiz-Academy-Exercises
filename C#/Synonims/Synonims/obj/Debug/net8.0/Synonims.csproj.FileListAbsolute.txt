@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Synonims\Synonims\bin\Debug\net8.0\Synonims.exe
+C:\Users\PC\source\repos\Synonims\Synonims\bin\Debug\net8.0\Synonims.deps.json
+C:\Users\PC\source\repos\Synonims\Synonims\bin\Debug\net8.0\Synonims.runtimeconfig.json
+C:\Users\PC\source\repos\Synonims\Synonims\bin\Debug\net8.0\Synonims.dll
+C:\Users\PC\source\repos\Synonims\Synonims\bin\Debug\net8.0\Synonims.pdb
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\Synonims.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\Synonims.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\Synonims.AssemblyInfo.cs
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\Synonims.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\Synonims.dll
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\refint\Synonims.dll
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\Synonims.pdb
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\Synonims.genruntimeconfig.cache
+C:\Users\PC\source\repos\Synonims\Synonims\obj\Debug\net8.0\ref\Synonims.dll
