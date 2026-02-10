@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\bin\Debug\net8.0\SymbolCounting.exe
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\bin\Debug\net8.0\SymbolCounting.deps.json
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\bin\Debug\net8.0\SymbolCounting.runtimeconfig.json
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\bin\Debug\net8.0\SymbolCounting.dll
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\bin\Debug\net8.0\SymbolCounting.pdb
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\SymbolCounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\SymbolCounting.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\SymbolCounting.AssemblyInfo.cs
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\SymbolCounting.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\SymbolCounting.dll
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\refint\SymbolCounting.dll
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\SymbolCounting.pdb
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\SymbolCounting.genruntimeconfig.cache
+C:\Users\PC\source\repos\SymbolCounting\SymbolCounting\obj\Debug\net8.0\ref\SymbolCounting.dll

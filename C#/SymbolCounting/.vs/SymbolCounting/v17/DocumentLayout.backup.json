@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\SymbolCounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9ACFCB-1AB8-4B6D-A880-D3EC465B2091}|SymbolCounting\\SymbolCounting.csproj|c:\\users\\pc\\source\\repos\\symbolcounting\\symbolcounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9ACFCB-1AB8-4B6D-A880-D3EC465B2091}|SymbolCounting\\SymbolCounting.csproj|solutionrelative:symbolcounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\SymbolCounting\\SymbolCounting\\Program.cs",
+              "RelativeDocumentMoniker": "SymbolCounting\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\SymbolCounting\\SymbolCounting\\Program.cs",
+              "RelativeToolTip": "SymbolCounting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:36:08.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
