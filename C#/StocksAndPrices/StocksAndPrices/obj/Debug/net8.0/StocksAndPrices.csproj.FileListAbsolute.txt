@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\bin\Debug\net8.0\StocksAndPrices.exe
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\bin\Debug\net8.0\StocksAndPrices.deps.json
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\bin\Debug\net8.0\StocksAndPrices.runtimeconfig.json
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\bin\Debug\net8.0\StocksAndPrices.dll
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\bin\Debug\net8.0\StocksAndPrices.pdb
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\StocksAndPrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\StocksAndPrices.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\StocksAndPrices.AssemblyInfo.cs
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\StocksAndPrices.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\StocksAndPrices.dll
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\refint\StocksAndPrices.dll
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\StocksAndPrices.pdb
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\StocksAndPrices.genruntimeconfig.cache
+C:\Users\PC\source\repos\StocksAndPrices\StocksAndPrices\obj\Debug\net8.0\ref\StocksAndPrices.dll
