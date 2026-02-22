@@ -1,0 +1,174 @@
+CREATE DATABASE FITNESSMANAGEMENTSYSTEM 
+
+USE FITNESSMANAGEMENTSYSTEM
+
+CREATE TABLE MEMBERS(
+	MemberID int primary key,
+	"Name" varchar(20),
+	MembersAge int,
+	MembersGender varchar(30),
+	MembersPhoneNumber int,
+	JoinDate int,
+)
+
+CREATE TABLE TRAINERS(
+	TrainerID int primary key,
+	"Name" varchar(20),
+	Specialty varchar(30),
+	YearsOfExperience int,
+)
+
+CREATE TABLE WORKOUTS(
+	WorkoutID int primary key,
+	"Name" varchar(20),
+	"Description" varchar(30),
+	Duration int,
+)
+
+CREATE TABLE NUTRITIONPLANS (
+	"Name" varchar(20),
+	CalorieCount int,
+	ProteinIntake int,
+	MemberId int,
+	CONSTRAINT FK_Member_NutritionPlans FOREIGN KEY(MemberId)
+	REFERENCES MEMBERS (MemberID)
+)
+
+CREATE TABLE SESSIONSTABLE(
+	SessionId int primary key IDENTITY(1,1),
+	MemberId int,
+	TrainerId int,
+	WorkoutId int,
+	CONSTRAINT FK_Member_SessionTable FOREIGN KEY(MemberId)
+	REFERENCES MEMBERS (MemberID),
+
+	CONSTRAINT FK_Trainer_SessionTable FOREIGN KEY(TrainerId)
+	REFERENCES TRAINERS (TrainerID),
+
+	CONSTRAINT FK_Workout_SessionTable FOREIGN KEY(WorkoutId)
+	REFERENCES WORKOUTS (WorkoutID)
+)
+
+ALTER TABLE SESSIONSTABLE
+ADD  IsSessionDone BIT
+
+select *from SESSIONSTABLE
+
+ALTER TABLE MEMBERS
+DROP COLUMN JoinDate
+
+SELECT *FROM MEMBERS
+
+ALTER TABLE MEMBERS
+ADD JoinDate DATE
+
+INSERT INTO MEMBERS
+VALUES(1, 'Alper', 21, 'male', 123456, '2025-01-12');
+INSERT INTO MEMBERS VALUES(2, 'Sara', 25, 'female', 654321, '2025-01-13');
+INSERT INTO MEMBERS VALUES(3, 'John', 30, 'male', 987654, '2025-01-14');
+INSERT INTO MEMBERS VALUES(4, 'Emily', 28, 'female', 567890, '2025-01-15');
+INSERT INTO MEMBERS VALUES(5, 'David', 35, 'male', 123789, '2025-01-16');
+INSERT INTO MEMBERS VALUES(6, 'Sophia', 22, 'female', 456123, '2025-01-17');
+INSERT INTO MEMBERS VALUES(7, 'Michael', 27, 'male', 789012, '2025-01-18');
+INSERT INTO MEMBERS VALUES(8, 'Isabella', 24, 'female', 234567, '2025-01-19');
+INSERT INTO MEMBERS VALUES(9, 'James', 29, 'male', 890123, '2025-01-20');
+INSERT INTO MEMBERS VALUES(10, 'Olivia', 26, 'female', 345678, '2025-01-21');
+INSERT INTO MEMBERS VALUES(11, 'Liam', 23, 'male', 567123, '2025-01-22');
+INSERT INTO MEMBERS VALUES(12, 'Charlotte', 31, 'female', 789456, '2025-01-23');
+INSERT INTO MEMBERS VALUES(13, 'Benjamin', 34, 'male', 678901, '2025-01-24');
+INSERT INTO MEMBERS VALUES(14, 'Ava', 32, 'female', 123890, '2025-01-25');
+INSERT INTO MEMBERS VALUES(15, 'William', 28, 'male', 901234, '2025-01-26');
+
+SELECT *FROM MEMBERS
+
+INSERT INTO TRAINERS
+VALUES(1, 'Ivan', 'MMA', 5)
+INSERT INTO TRAINERS VALUES(2, 'Sophia', 'Boxing', 3);
+INSERT INTO TRAINERS VALUES(3, 'Michael', 'Karate', 7);
+INSERT INTO TRAINERS VALUES(4, 'Emily', 'Yoga', 4);
+INSERT INTO TRAINERS VALUES(5, 'James', 'Weightlifting', 6);
+
+SELECT *FROM TRAINERS
+
+INSERT INTO WORKOUTS
+VALUES(1, 'Grappling', 'how to grapple', 2)
+
+SELECT *FROM WORKOUTS
+
+
+SELECT *FROM MEMBERS
+
+SELECT *FROM TRAINERS
+ORDER BY "Name", Specialty;
+
+SELECT *FROM WORKOUTS
+WHERE Duration >= 30;
+
+SELECT *FROM MEMBERS
+WHERE MembersGender = 'female' 
+ORDER BY MembersAge DESC;
+
+
+SELECT *FROM TRAINERS
+ORDER BY YearsOfExperience DESC;
+
+SELECT *FROM WORKOUTS
+WHERE "Name" = 'Yoga';
+
+SELECT COUNT(*)AS MembersCount
+FROM MEMBERS
+
+SELECT AVG(Duration)
+FROM WORKOUTS
+
+SELECT COUNT(NUTRITIONPLANS)
+FROM MEMBERS
+
+SELECT *FROM TRAINERS
+ORDER BY YearsOfExperience;
+
+SELECT *FROM TRAINERS
+ORDER BY YearsOfExperience DESC;
+
+INSERT INTO WORKOUTS
+VALUES(3, 'Boxing', 'Will boxing today', 30)
+
+SELECT AVG(MembersAge)AS AverageAge
+FROM MEMBERS
+WHERE MembersGender = 'female'
+
+SELECT SUM(Duration) AS TotalDuration
+FROM WORKOUTS
+
+INSERT INTO MEMBERS
+VALUES(20, 'Maria', 25, 'female', 654321, '2025-01-13'),
+(21, 'Maria', 25, 'female', 654321, '2025-01-13')
+
+SELECT DISTINCT "Name"
+FROM MEMBERS 
+
+INSERT INTO NUTRITIONPLANS
+VALUES('Chicken fillet', 100, 20, 3)
+
+SELECT COUNT(*)AS NutritionPerMember
+FROM MEMBERS
+
+SELECT *FROM NUTRITIONPLANS
+UPDATE NUTRITIONPLANS
+SET ProteinIntake = 100
+WHERE "Name" = 'Chicken fillet'
+
+SELECT TOP 3 *FROM MEMBERS
+ORDER BY MembersAge DESC 
+
+SELECT *FROM MEMBERS
+WHERE MembersAge BETWEEN 27 AND 30
+
+SELECT *FROM MEMBERS 
+WHERE MembersAge IN (24, 27)
+
+
+
+
+
+
